@@ -1,0 +1,5 @@
+Complete https://pytorch.org/tutorials/beginner/pytorch_with_examples.html
+Write and train a fully-connected neural network to estimate sinus function (you can introduce normal error while creating the function) between -pi and pi using PyTorch or Jax.
+- That means, your training data should be sinus+normal error between -pi and +pi.
+- Investigate performance of different neural network parameters (different widths and depths)
+- Using previously trained networks predict and draw the function between -4*pi and 4*pi

@@ -1,0 +1,4 @@
+Study https://www.deeplearningbook.org/contents/convnets.html
+Train different neural network architectures to classify FashionMNIST dataset classes. You can find this dataset in PyTorch Datasets.
+ (https://pytorch.org/vision/0.18/generated/torchvision.datasets.FashionMNIST.html) 
+You should try different convolutional layer parameters (kernel size, stride, channel numbers etc.) then train this networks with/without dropout/batch normalization. Prepare a short report.

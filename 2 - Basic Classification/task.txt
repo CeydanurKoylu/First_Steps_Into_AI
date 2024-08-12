@@ -1,0 +1,11 @@
+Write a logistic regression code using Python and train and test your code in Titanic Survival Prediction. (https://www.kaggle.com/competitions/titanic/overview)
+    You can use pandas DataFrame.
+    You can use a well-known ML library like scikit-learn.
+    In this time, the data is very noise and contains multi labels with multiple data types. Therefore, you should manipulate the data to use Logistic Regression algorithm.
+    If you are struggling with data manipulation, below courses can help you: (kaggle.com -> under Learn tab)
+        - Kaggle Intermediate Machine learning
+        - Kaggle Feature Engineering
+    (Optional) You can explore other classification algortihms inside scikit-learn: 
+        - https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py is a very good examples of algorithm comparison.
+    
+    

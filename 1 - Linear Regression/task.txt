@@ -1,0 +1,9 @@
+Write a linear regressor from scratch using Python.
+    You can use numpy arrays or Python list to manipulate the data.
+    Do not use auto-grad or ML libraries to handle the task.
+    Test your code using the first_linear_regression_data.txt and second_linear_regression_data.txt. Data format (x, y)
+    Plot the data and fitted line to check whether your linear regression code is working or not
+    first_linear_regression_data.txt is a linear data and you can confidently use classic linear regressor.
+    second_linear_regression_data.txt is not linear. Think about a solution without manipulating the code. (Maybe you can manipulate the data.) 
+        If you cannot find a good solution, you may search "kernel trick" or "kernel methods"
+    
